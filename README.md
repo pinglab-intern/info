@@ -1,2 +1,2 @@
-# info
-Pinglab Intern Info
+# Pinglab Interns Info
+
