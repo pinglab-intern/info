@@ -38,17 +38,18 @@
   Our overall goal is to construct methods for organizing this information in an automated manner.
   At present, however, the most efficient way to do so is manually.
   Manual KG assembly allows for strict control over data curation standards.
-  What challenges may we encounter in manual assembly of KGs defining cardiovascular phenomena from both clinical and experimental documents?
-  Which curated knowledge bases may contribute the most informative concepts to a cardiovascular KG?
-  What may a cardiovascular KG tell us that a traditional database may not?
+  
+  - What challenges may we encounter in manual assembly of KGs defining cardiovascular phenomena from both clinical and experimental documents?
+  - Which curated knowledge bases may contribute the most informative concepts to a cardiovascular KG?
+  - What may a cardiovascular KG tell us that a traditional database may not?
  
   TO DO:
-- 1. Become familiar with the CaseOLAP pipeline (Dibakar) - Week 1
-- 2. Assemble documents from PubMed (on drugs sensitive to oxidative stress) (Dibakar) Week 2
-- 3. Identify drug-disease relationships (Dibakar/David) - Week 3-4
-- 4. Learn how to manually create KG from drug-disease relationships and integrate with knowledgebases (Reactome) (Harry) Week 6-9
+-  Become familiar with the CaseOLAP pipeline (Dibakar) - Week 1
+-  Assemble documents from PubMed (on drugs sensitive to oxidative stress) (Dibakar) Week 2
+-  Identify drug-disease relationships (Dibakar/David) - Week 3-4
+-  Learn how to manually create KG from drug-disease relationships and integrate with knowledgebases (Reactome) (Harry) Week 6-9
  
 ##### Further Reading:
-  * Our group's recent paper/video on CaseOLAP phrase mining - Sigdel et al. (2019) PMID: 30855564
-  * Individualized Knowledge Graphs - Ping et al. (2017) PMID: 28360346
+- Our group's recent paper/video on CaseOLAP phrase mining - Sigdel et al. (2019) PMID: 30855564
+- Individualized Knowledge Graphs - Ping et al. (2017) PMID: 28360346
 
